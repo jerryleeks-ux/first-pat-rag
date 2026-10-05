@@ -1,0 +1,6 @@
+{
+  "name": "TradingView – Track All Markets",
+  "description": "Where the world does markets. Supercharts, community trading ideas, Pine Script indicators, and real-time market dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
